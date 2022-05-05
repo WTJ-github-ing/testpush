@@ -1,0 +1,3 @@
+kaggle数据：https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data
+CSDN：https://blog.csdn.net/qq_42365109/article/details/114844020
+Github：https://github.com/FudanNLP/nlp-beginne

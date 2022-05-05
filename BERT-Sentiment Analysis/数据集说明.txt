@@ -1,0 +1,6 @@
+test:
+
+UserName	ScreenName	Location	    TweetAt	OriginalTweet	     Sentiment
+1                                     44953                 NEWYork    15-03-2020         英文评论，有特殊字符   Negative等
+2
+3
